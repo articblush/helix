@@ -1,3 +1,12 @@
+<h1 align="center">
+	<img src="https://github.com/articblush/.github/blob/main/src/articblush56.png" width="25%" alt="Logo"/><br/>
+	Articblush Helix Theme</a>
+  </h1>
+
+ <h3 align="center">An Articblush port of Helix</h3>
+ 
+ ----
+
 # Installation
 You can install this theme by simply downloading the `articblush.toml` file into `~/.config/helix/themes/`
 ```sh
